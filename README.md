@@ -3,7 +3,7 @@ Langchain and Pandas and the Python REPL are common Components.
 Packages for sports include to MPLsoccer package and FBref scaper tools.
 
 Roadmap 
-Comparison radar
+Comparison radar  ---- done 
 tables
-heatmaps
+heatmaps  --- - next __ play by play data on the agenda
 shotmaps
